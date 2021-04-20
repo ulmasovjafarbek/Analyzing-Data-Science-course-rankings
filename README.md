@@ -2,7 +2,7 @@
 
 ## Description
 
-In this exploratory data analysis notebook, I analyzed the rankings of Data Science and Data Analysis courses. Objectives of this study is to find out what are the best DS courses, using MOOCs ranking platform, Classcentral.
+In this exploratory data analysis notebook, I analyzed the rankings of Data Science and Data Analysis courses. Objective of this study is to find out what are the best DS courses, using MOOCs ranking platform, Classcentral.
 
 The study is carried out in two stages: Data Science courses and Data Analysis courses. The main Python libraries used in this notebook are Beautiful Soup for scraping data from Classcentral, Pandas for forming dataframes, and Matplotlib, Plotly, Seaborn for visualizing the data.
 
